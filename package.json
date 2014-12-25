@@ -1,0 +1,26 @@
+{
+  "name": "ipx800",
+  "version": "0.0.1",
+  "description": "Have fun with your IPX800 v3",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/jdesboeufs/ipx800.git"
+  },
+  "keywords": [
+    "IPX",
+    "IPX800 V3",
+    "Home Automation",
+    "IoT",
+    "Internet of Things"
+  ],
+  "author": "Jerome Desboeufs <jerome.desboeufs@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/jdesboeufs/ipx800/issues"
+  },
+  "homepage": "https://github.com/jdesboeufs/ipx800"
+}
