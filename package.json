@@ -22,5 +22,11 @@
   "bugs": {
     "url": "https://github.com/jdesboeufs/ipx800/issues"
   },
-  "homepage": "https://github.com/jdesboeufs/ipx800"
+  "homepage": "https://github.com/jdesboeufs/ipx800",
+  "dependencies": {
+    "debug": "^2.1.0",
+    "lodash": "^2.4.1",
+    "superagent": "^0.21.0",
+    "xml2js": "^0.4.4"
+  }
 }
